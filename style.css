@@ -1,0 +1,16 @@
+body{
+
+	margin:0px;
+}
+
+*{
+	-webkit-user-select : none;
+	font-family : "Lucida Console";
+	cursor : default;
+}
+
+.cadetmouse:hover{
+
+	transition : .3s;
+	background-color: #87E0E3;
+}
